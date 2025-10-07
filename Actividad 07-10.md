@@ -1,24 +1,20 @@
 ## Visión
 - Un sistema que facilite la recuperación de objetos perdidos con el fin de mejorar la seguridad del compus, y la confianza de los alumnos, hacía la institución
 ## Roles:
-- Persona que pierde cosas.
-- Persona que encuentra cosas.
+- Persona que pierde objetos.
+- Persona que reporta objetos.
 - Administrador.
 ## Historia de usuario
-1. Como **personas que perdio un objeto**, **quiero** poder reportar un objeto que perdi recientemente, **para** que me notifiquén si lo han encontrado.
-2. Como **administrador**, quiero **poder** ver una lista de objetos perdidos, **para** comparar con los informes de objetos perdidos
-3. Como **persona qué encontro un objeto**, quiero poder notificarlo, **para** qué se le notifique al usuario propietario.
-4. Como **administrador**, quiero eliminar un informe de objeto perdido, **para** qué sea más fácil para encontrar los objetos
-5. Como **administrador** quiero poder ver los datos de la persona qué perdio el objeto, **para** poder contactarlo de manera más sencilla.
-<<<<<<< HEAD
-6. Como **administrador** quiero poder ver el informe del objeto particular perdido o encontrado, **para** poder ver si lo encontraron
-7. Como **administrador** **quiero** poder gestionar los objetos perdidos y encontrados **para** garantizar el confort de los usuarios del campus.
-8. Como **usuario que reporto un objeto**, **quiero** listado de los objetos que perdido, **para** para recordar qué objetos he reportado.
-9. Como **usuario que reporto un objeto**, **Quiero** poder cancerlar el reporte que realice, en caso de haberlo encontrado por mi cuenta.
-10. Como **usuario que perdió el objeto**, **quiero** poder modificar el reporte del objeto perdido que yo realice, **para** en cosas de que se olvido agregar detalles
-=======
-6. Como **administrador** quisiera poder gestionar los objetos perdidos y encontrados para garantizar el confort de los usuarios del campus.
->>>>>>> 674a74dd1de10d5bdd7118b78df2b64214b69b79
+1. Como **persona que perdió un objeto**, **quiero** poder reportar un objeto que perdí recientemente, **para** que me notifiquen si lo han encontrado.
+2. Como **administrador** **quiero** poder ver una lista de objetos perdidos, **para** ver el estado de los objetos registrados.
+3. Como **persona que encontró un objeto** quiero poder notificarlo, **para** qué se le notifique al usuario propietario.
+4. Como **administrador** quiero eliminar un informe de objeto perdido, **para** qué sea más fácil navegar entre los objetos registrados.
+5. Como **administrador** quiero poder ver los datos de la persona que perdió el objeto, **para** poder contactarlo de manera más sencilla.
+6. Como **administrador** quiero poder ver el informe del objeto particular perdido o encontrado, **para** ver el estado actual del objeto (perdido o encontrado).
+7. Como **usuario que reportó un objeto** **quiero** ver un listado de los objetos que ha perdido, **para** para recordar qué objetos he reportado.
+8. Como **usuario que reportó un objeto** **quiero** poder cancelar el reporte que realicé, en caso de haberlo encontrado por mi cuenta.
+9. Como **usuario que perdió un objeto** **quiero** poder modificar el reporte que he realizado de objeto perdido, **para** agregar detalles que he olvidado, o modificar aspectos importantes para una buena búsqueda.
+
 
 | Historia de <br>usuario | Prioridad |     |     |     |
 | ----------------------- | --------- | --- | --- | --- |
