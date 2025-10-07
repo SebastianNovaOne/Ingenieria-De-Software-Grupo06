@@ -14,17 +14,18 @@
 7. Como **usuario que reportó un objeto** **quiero** ver un listado de los objetos que ha perdido, **para** para recordar qué objetos he reportado.
 8. Como **usuario que reportó un objeto** **quiero** poder cancelar el reporte que realicé, en caso de haberlo encontrado por mi cuenta.
 9. Como **usuario que perdió un objeto** **quiero** poder modificar el reporte que he realizado de objeto perdido, **para** agregar detalles que he olvidado, o modificar aspectos importantes para una buena búsqueda.
+10. Como **administrador** **quiero** poder relacionar un objeto perdido con uno encontrado, **para** poder entregar el objeto y responder a la solicitud.
 
 
 | Historia de <br>usuario | Prioridad |     |     |     |
 | ----------------------- | --------- | --- | --- | --- |
-| 1                       | alta      |     |     |     |
-| 2                       | alta      |     |     |     |
-| 3                       | alta      |     |     |     |
+| 1                       | Alta      |     |     |     |
+| 2                       | Alta      |     |     |     |
+| 3                       | Alta      |     |     |     |
 | 4                       | Media     |     |     |     |
-| 5                       | alta      |     |     |     |
-| 6                       | media     |     |     |     |
+| 5                       | Alta      |     |     |     |
+| 6                       | Media     |     |     |     |
 |                         |           |     |     |     |
-| 8                       | baja      |     |     |     |
-| 9                       | baja      |     |     |     |
-| 10                      | baja      |     |     |     |
+| 8                       | Baja      |     |     |     |
+| 9                       | Baja      |     |     |     |
+| 10                      | Alto      |     |     |     |
