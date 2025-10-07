@@ -1,5 +1,5 @@
 ## Visión
-- Un sistema que facilite la recuperación de objetos perdidos con el fin de mejorar la seguridad del compus, y la confianza de los alumnos, hacía la institución
+- Un sistema que ayude y facilite el proceso de búsqueda y recuperación de objetos perdidos con el fin de mejorar la seguridad del campus y la confianza de las personas hacia la institución.
 ## Roles:
 - Persona que pierde objetos.
 - Persona que reporta objetos.
