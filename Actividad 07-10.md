@@ -20,7 +20,15 @@
 6. Como **administrador** quisiera poder gestionar los objetos perdidos y encontrados para garantizar el confort de los usuarios del campus.
 >>>>>>> 674a74dd1de10d5bdd7118b78df2b64214b69b79
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
-|     |     |     |     |     |
+| Historia de <br>usuario | Prioridad |     |     |     |
+| ----------------------- | --------- | --- | --- | --- |
+| 1                       | alta      |     |     |     |
+| 2                       | alta      |     |     |     |
+| 3                       | alta      |     |     |     |
+| 4                       | Media     |     |     |     |
+| 5                       | alta      |     |     |     |
+| 6                       | media     |     |     |     |
+|                         |           |     |     |     |
+| 8                       | baja      |     |     |     |
+| 9                       | baja      |     |     |     |
+| 10                      | baja      |     |     |     |
